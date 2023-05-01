@@ -1,0 +1,45 @@
+.header{
+    width: 100%;
+    height: 350px;
+    /*font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: green ;
+    text-align: center;
+    font-size: 24px;*/
+    background-image: url("../imagenes/frente\ muebleria1.jpg");
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.nav{
+    background-color: rgb(78, 168, 78);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold ;
+}
+ul{
+    list-style: none;
+}
+h3{
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+p{
+    font-style: italic;
+}
+.aside{
+    
+    width: 100%;
+    background-color: aqua;
+    background-image: url("../imagenes/algarrobo.jpg");
+    background-size: 10%;
+    background-repeat: no-repeat;
+    padding-top: 10%;
+}
+.footer{
+    background-color: rgb(104, 104, 114);
+    width: 100%;
+    height: 20px;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 15px;
+}
